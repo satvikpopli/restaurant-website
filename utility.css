@@ -1,0 +1,39 @@
+/* ###################### UTILITY CLASSES ###################### */
+.btn {
+    font-size: 1rem;
+    text-transform: uppercase;
+    padding: 0.75rem 1.25rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #16a586;
+    border-radius: 5em;
+    margin-top: 0.5em;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    transition: transform 200ms ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.075);
+}
+
+.btn-small {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    padding: 0.7rem 1.2rem;
+    text-decoration: none;
+    color: #fff;
+    background-color: #16a586;
+    border-radius: 5em;
+    margin-top: 0.5em;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    transition: transform 200ms ease-in-out;
+}
+
+.btn-small:hover {
+    transform: scale(1.075);
+}
+
